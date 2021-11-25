@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/NodNar/PruebaGit.git/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/NodNar/PruebaGit.git/static/js/main.a2b1f918.chunk.js",
+    "main.js.map": "/NodNar/PruebaGit.git/static/js/main.a2b1f918.chunk.js.map",
+    "runtime-main.js": "/NodNar/PruebaGit.git/static/js/runtime-main.0f675cbd.js",
+    "runtime-main.js.map": "/NodNar/PruebaGit.git/static/js/runtime-main.0f675cbd.js.map",
+    "static/js/2.21c4300c.chunk.js": "/NodNar/PruebaGit.git/static/js/2.21c4300c.chunk.js",
+    "static/js/2.21c4300c.chunk.js.map": "/NodNar/PruebaGit.git/static/js/2.21c4300c.chunk.js.map",
+    "static/js/3.da09db2e.chunk.js": "/NodNar/PruebaGit.git/static/js/3.da09db2e.chunk.js",
+    "static/js/3.da09db2e.chunk.js.map": "/NodNar/PruebaGit.git/static/js/3.da09db2e.chunk.js.map",
+    "index.html": "/NodNar/PruebaGit.git/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/NodNar/PruebaGit.git/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.21c4300c.chunk.js.LICENSE.txt": "/NodNar/PruebaGit.git/static/js/2.21c4300c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/NodNar/PruebaGit.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f675cbd.js",
+    "static/js/2.21c4300c.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.a2b1f918.chunk.js"
+  ]
+}
